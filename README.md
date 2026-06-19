@@ -7,7 +7,6 @@
 <br/>
 
 ![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6C3AC7?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.3-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-2022--2026-8B5CF6?style=for-the-badge&logo=calendar&logoColor=white)
 ![Location](https://img.shields.io/badge/India-Himachal%20Pradesh-A78BFA?style=for-the-badge&logo=google-maps&logoColor=white)
 
@@ -63,11 +62,21 @@ open_to    :
 
 **Backend & Databases**
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
+
+**Real-Time & ORM**
+
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-6C3AC7?style=for-the-badge&logo=websocket&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Neon DB](https://img.shields.io/badge/Neon_DB-00E5BF?style=for-the-badge&logo=neon&logoColor=black)
 
 **Cloud, DevOps & Tooling**
 
-[![Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,render,linux&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=aws,git,github,linux&theme=dark)](https://skillicons.dev)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -215,8 +224,8 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
 
 </div>
 
@@ -232,7 +241,7 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aryanpandita&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=aryanpandita&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
@@ -252,7 +261,13 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-![Snake animation](https://github.com/aryanpandita/aryanpandita/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanpandita/aryanpandita/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanpandita/aryanpandita/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aryanpandita/aryanpandita/output/gthub-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚠️ **Setup required:** Add the [snake workflow](https://github.com/Platane/snk) to your profile repo at `.github/workflows/snake.yml` to generate this animation.
 
 </div>
 
@@ -267,7 +282,7 @@ learning:
   - DSA — trees, dynamic programming, graphs
 
 building:
-  - ScoreX  : Real-time sports score app with live commentary (WebSockets)
+  - Scorenova  : Real-time sports score app with live commentary (WebSockets)
   - Resumix    : AI-powered resume analyzer with scoring & feedback
   - Chat App   : Full stack realtime chat (MERN + Socket.io)
 
