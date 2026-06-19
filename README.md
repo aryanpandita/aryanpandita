@@ -237,16 +237,6 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpandita&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
