@@ -14,15 +14,15 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aryanpandita05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryannpandita/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanpandita05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanpandita05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanpandita)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aryanpandita05&style=for-the-badge&color=6C3AC7)
-![Followers](https://img.shields.io/github/followers/aryanpandita05?style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/aryanpandita05?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=aryanpandita&style=for-the-badge&color=6C3AC7)
+![Followers](https://img.shields.io/github/followers/aryanpandita?style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/aryanpandita?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white)
 
 </div>
 
@@ -215,14 +215,14 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aryanpandita05&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanpandita&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
@@ -232,7 +232,7 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aryanpandita05&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aryanpandita&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -242,7 +242,7 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanpandita05&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanpandita&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -252,7 +252,7 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-![Snake animation](https://github.com/aryanpandita05/aryanpandita05/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/aryanpandita/aryanpandita/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
