@@ -224,8 +224,8 @@ Built a Flask and SQL-backed portal that standardized lost-and-found workflows a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
 
 </div>
 
