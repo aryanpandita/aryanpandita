@@ -1,119 +1,306 @@
-# 👋 Hi, I'm Aryan Pandita
+<div align="center">
 
-🚀 Full-Stack Developer | Computer Science Undergraduate | Lifelong Learner
+![header](https://capsule-render.vercel.app/api?type=waving&color=6C3AC7&height=200&section=header&text=Aryan%20Pandita&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descAlignY=55&descAlign=50)
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+production-grade+full+stack+systems;Integrating+AI+%26+ML+into+real+products;MERN+Stack+%7C+Flask+%7C+Python+%7C+Node.js;Open+to+SDE+%26+AI+Engineering+Roles)](https://git.io/typing-svg)
 
-## 🧑‍💻 About Me
+<br/>
 
-My journey into technology began with curiosity — curiosity about how systems work behind the scenes and how ideas turn into real, usable products. Over time, that curiosity evolved into a strong passion for building complete, end-to-end software solutions.
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-Computer%20Science-6C3AC7?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-7.3-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-2022--2026-8B5CF6?style=for-the-badge&logo=calendar&logoColor=white)
+![Location](https://img.shields.io/badge/India-Himachal%20Pradesh-A78BFA?style=for-the-badge&logo=google-maps&logoColor=white)
 
-As a Computer Science undergraduate, I enjoy working across the full stack — designing responsive user interfaces, building robust backend systems, integrating databases, and deploying applications to production. I believe good software is a balance of clean architecture, performance, and maintainability.
+<br/>
 
-Alongside full-stack development, I actively explore Machine Learning and AI, experimenting with data-driven systems, automation, and intelligent applications. I’m also comfortable with modern deployment workflows, CI/CD pipelines, cloud platforms, and developer tooling.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aryanpandita05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanpandita05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanpandita05)
 
-I value deep learning over shortcuts, real projects over tutorials, and consistency over hype. My goal is to continuously improve as an engineer and build software that is reliable, scalable, and meaningful.
+<br/>
 
-> _Build with intent. Learn with depth. Grow with consistency._
+![Profile Views](https://komarev.com/ghpvc/?username=aryanpandita05&style=for-the-badge&color=6C3AC7)
+![Followers](https://img.shields.io/github/followers/aryanpandita05?style=for-the-badge&color=7C3AED&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/aryanpandita05?style=for-the-badge&color=8B5CF6&logo=github&logoColor=white)
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+</div>
 
 ---
 
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite)
-![EJS](https://img.shields.io/badge/EJS-B4CA65)
+## `$ whoami`
+
+```yaml
+name       : Aryan Pandita
+role       : Software Engineer · Full Stack Developer · AI/ML Engineer
+education  : B.Tech Computer Science — ABV-GIET, Himachal Pradesh (2022–2026)
+experience :
+  - Machine Learning Intern @ CFEES, DRDO (June–August 2025)
+  - Python Developer @ Intensity Global Technologies (June–July 2024)
+focus      :
+  - Production-grade MERN stack systems
+  - AI/ML integration in full stack products
+  - Backend architecture · REST APIs · Real-time systems
+open_to    :
+  - SDE Internships & Full-Time Roles
+  - AI Engineering Positions
+  - Open Source Collaboration
+```
 
 ---
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon)
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Skills](https://skillicons.dev/icons?i=python,javascript,cpp,java&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Skills](https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+**Backend & Databases**
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql&theme=dark)](https://skillicons.dev)
+
+**Cloud, DevOps & Tooling**
+
+[![Skills](https://skillicons.dev/icons?i=aws,git,github,vercel,render,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle)
+## 🤖 AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Classification Models** | ██████████ Advanced | Scikit-learn pipelines, multi-class incident classification |
+| **Data Preprocessing** | ██████████ Advanced | Pandas, NumPy, feature engineering, normalization |
+| **Data Visualization** | ████████░░ Proficient | Matplotlib, Seaborn, dashboard-level reporting |
+| **ML Integration** | ████████░░ Proficient | Flask ML backends, React frontend integration |
+| **LLM / Gen AI** | ███████░░░ Intermediate | Gemini API integration, AI chatbot systems |
+| **Model Evaluation** | ███████░░░ Intermediate | Confusion matrix, accuracy, precision, recall |
+
+</div>
 
 ---
 
-### 🤖 Machine Learning & AI
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly)
+## 🚀 Featured Projects
+
+<details>
+<summary><strong>PRISM — AI Incident Monitoring Dashboard</strong></summary>
+
+<br/>
+
+> A full-stack AI-powered dashboard to monitor, classify, and visualize operational incidents in real time. Built during a Machine Learning internship at CFEES, DRDO — one of India's premier defence research organizations.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | React.js · Flask · SQLite · Scikit-learn · Pandas · NumPy · Matplotlib |
+| **Scale** | Deployed internally at CFEES, DRDO for operational incident tracking |
+| **AI Feature** | Automated multi-class incident classification using ML pipelines |
+| **Architecture** | Decoupled ML backend (Flask) + React frontend with REST API bridge |
+| **Impact** | Reduced manual classification overhead; enabled real-time incident insights |
+| **Repository** | [View on GitHub](https://github.com/aryanpandita05) |
+
+Built end-to-end data preprocessing pipelines with Scikit-learn and integrated classification outputs into an interactive React dashboard. The system automates incident report categorization, enabling faster decision-making for defence operations.
+
+</details>
 
 ---
 
-### ☁️ Cloud, Deployment & Hosting
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify)
-![Render](https://img.shields.io/badge/Render-46E3B7)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku)
+<details>
+<summary><strong>HIM AROGYAM — AI Telemedicine Platform</strong></summary>
+
+<br/>
+
+> An AI-powered telemedicine platform designed specifically for rural Himachal Pradesh, bridging the healthcare access gap through technology.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | MongoDB · Express.js · React.js · Node.js · Gemini API · ZegoCloud · Render |
+| **Scale** | Targeting 70%+ rural user adoption in Himachal Pradesh |
+| **AI Feature** | Gemini-powered AI chatbot for appointment scheduling and health queries |
+| **Real-Time** | Video calling via ZegoCloud SDK integration |
+| **Impact** | 70%+ rural users accessed online consultations; 45% improvement in consultation rates |
+| **Repository** | [View on GitHub](https://github.com/aryanpandita05) |
+
+Designed and engineered a full MERN stack platform with AI-assisted scheduling and real-time video consultations. The platform directly addresses rural healthcare accessibility by enabling remote doctor-patient interactions with minimal technical literacy required.
+
+</details>
 
 ---
 
-### 🔄 DevOps, CI/CD & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
+<details>
+<summary><strong>LOST N FOUND — College Lost & Found Portal</strong></summary>
+
+<br/>
+
+> A web application to streamline lost-and-found item management across college departments.
+
+| Attribute | Details |
+|---|---|
+| **Stack** | Flask · SQL · Python |
+| **Scale** | Adopted by 10+ college departments |
+| **Impact** | Measurably improved item recovery efficiency institution-wide |
+| **Repository** | [View on GitHub](https://github.com/aryanpandita05) |
+
+Built a Flask and SQL-backed portal that standardized lost-and-found workflows across departments. Replaced manual tracking with a centralized system, resulting in significant improvements in item recovery rates.
+
+</details>
 
 ---
 
-### 🧰 Developer & Security Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-181717?logo=gitlab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io)
-![Nmap](https://img.shields.io/badge/Nmap-0040FF)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D)
+## 💼 Experience
+
+<div align="center">
+
+### Machine Learning Intern · CFEES, DRDO
+**June 2025 – August 2025 · New Delhi, India**
+
+</div>
+
+- Built the **PRISM** Incident Monitoring Dashboard using ML classification models for defence incident reports
+- Implemented end-to-end data preprocessing pipelines and classification algorithms with Scikit-learn
+- Integrated ML backend (Flask REST API) with React.js frontend for real-time inference and visualization
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aryannpandita/)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:aryanpandita05@gmail.com)
+### Python Developer · Intensity Global Technologies Pvt Ltd
+**June 2024 – July 2024 · New Delhi, India**
 
+</div>
+
+- Automated repetitive workflows using Python scripts, reducing manual operational overhead by **~30%**
+- Engineered RESTful APIs with Node.js and integrated them into React.js frontends, cutting page load times by **40%**
+- Deployed production applications on **AWS EC2** with automated CI/CD via GitHub Actions
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
 
-## ✨ Final Note
+## 🏆 Achievements
 
-I’m always open to learning, collaboration, and meaningful opportunities.  
-If you’re interested in building something impactful — feel free to reach out.
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🥇 **State-Level Hackathon Winner** | March 2025 — 1st place among competing teams |
+| 🎓 **Class Representative** | Elected for all 4 years; liaison for 200+ students |
+| 🎯 **Event Organizer** | Led hackathons, alumni meets, and annual college functions |
+| 💻 **DSA** | 20+ LeetCode problems solved — arrays, recursion, graphs |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryanpandita05&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=7C3AED&text_color=ffffff&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpandita05&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=aryanpandita05&theme=midnight-purple&hide_border=true&background=0D0D0D&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aryanpandita05&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aryanpandita05&bg_color=0D0D0D&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/aryanpandita05/aryanpandita05/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - Advanced WebSocket systems with Socket.io
+  - System design & distributed architecture
+  - DSA — trees, dynamic programming, graphs
+
+building:
+  - ScoreX  : Real-time sports score app with live commentary (WebSockets)
+  - Resumix    : AI-powered resume analyzer with scoring & feedback
+  - Chat App   : Full stack realtime chat (MERN + Socket.io)
+
+exploring:
+  - LLM integration in production MERN systems
+  - DevOps pipelines — Docker, GitHub Actions, Render/Vercel
+  - AWS cloud infrastructure
+
+open_to:
+  - SDE Internship & Full-Time Roles (2025–2026)
+  - AI/ML Engineering Positions
+  - Open Source Projects
+  - Freelance & Consulting
+```
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-aryanpandita05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanpandita05@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryannpandita/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryanpandita)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Engineering is not about writing code — it's about solving problems that matter."*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6C3AC7&height=120&section=footer&animation=fadeIn)
+
+</div>
